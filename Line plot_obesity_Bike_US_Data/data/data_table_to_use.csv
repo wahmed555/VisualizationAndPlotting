@@ -1,0 +1,266 @@
+City Name,City_Alt,Population_x,Total Points,Obesity Rank
+Springdale,"SPRINGDALE, AR","77,252",3.0,35.7
+South Bend,"SOUTH BEND, IN","101,928",2.0,38.6
+Kalamazoo,"KALAMAZOO, MI","75,833",1.9,37.4
+Springfield,"SPRINGFIELD, MO","165,785",1.9,32.4
+Medford,"MEDFORD, OR","79,246",1.9,28.1
+Fort Wayne,"FORT WAYNE, IN","262,450",1.9,34.8
+Rapid City,"RAPID CITY, SD","72,841",1.9,28.0
+Missoula,"MISSOULA, MT","70,847",2.2,24.5
+Waukesha,"WAUKESHA, WI","72,173",1.9,28.9
+Bend,"BEND, OR","87,167",2.0,26.0
+Bellingham,"BELLINGHAM, WA","85,388",2.1,27.6
+Tustin,"TUSTIN, CA","80,007",1.7,21.6
+Fort Collins,"FORT COLLINS, CO","159,150",3.6,21.6
+Iowa City,"IOWA CITY, IA","73,415",2.1,25.3
+Hillsboro,"HILLSBORO, OR","102,396",2.3,29.2
+Murfreesboro,"MURFREESBORO, TN","126,188",1.7,29.7
+Redding,"REDDING, CA","91,236",1.6,25.4
+Wichita,"WICHITA, KS","389,054",1.8,31.3
+Boulder,"BOULDER, CO","106,271",3.7,14.9
+Santa Barbara,"SANTA BARBARA, CA","91,443",3.1,23.8
+Fort Smith,"FORT SMITH, AR","87,537",1.7,35.0
+Mount Pleasant,"MOUNT PLEASANT, SC","80,661",1.7,24.8
+Ann Arbor,"ANN ARBOR, MI","119,303",3.0,23.4
+Orem,"OREM, UT","94,420",1.8,25.6
+Tampa,"TAMPA, FL","368,087",1.5,28.5
+Independence,"INDEPENDENCE, MO","117,369",1.7,31.2
+Lansing,"LANSING, MI","115,222",1.8,38.1
+Aurora,"AURORA, IL","200,946",2.0,34.4
+Charleston,"CHARLESTON, WV","49,384",1.6,37.0
+Kansas City,"KANSAS CITY, KS","151,042",1.6,43.6
+Santa Maria,"SANTA MARIA, CA","104,791",2.8,29.2
+Portland,"PORTLAND, ME","66,715",1.7,26.3
+Athens,"ATHENS, GA","122,292",2.3,27.5
+Alexandria,"ALEXANDRIA, VA","154,710",1.9,25.2
+Tulsa,"TULSA, OK","401,352",1.5,30.3
+Yuma,"YUMA, AZ","93,851",1.5,35.2
+Philadelphia,"PHILADELPHIA, PA","1,569,657",2.0,29.3
+Santa Ana,"SANTA ANA, CA","334,493",1.6,27.6
+Chicago,"CHICAGO, IL","2,722,586",2.0,33.0
+Evansville,"EVANSVILLE, IN","119,806",1.6,36.2
+Hartford,"HARTFORD, CT","124,390",1.5,35.7
+Syracuse,"SYRACUSE, NY","144,405",1.5,35.8
+Tuscaloosa,"TUSCALOOSA, AL","97,373",1.4,31.8
+Chico,"CHICO, CA","90,660",2.3,23.7
+Pittsburgh,"PITTSBURGH, PA","305,012",1.8,30.0
+Peoria,"PEORIA, IL","115,424",1.6,35.3
+Burlington,"BURLINGTON, VT","42,453",2.1,21.9
+Erie,"ERIE, PA","98,970",1.6,38.0
+Denver,"DENVER, CO","678,467",3.1,19.8
+Gainesville,"GAINESVILLE, FL","129,394",2.4,24.6
+Cranston,"CRANSTON, RI","80,979",1.4,26.0
+Fort Lauderdale,"FORT LAUDERDALE, FL","177,175",2.1,28.4
+Olathe,"OLATHE, KS","134,368",1.8,26.2
+Avondale,"AVONDALE, AZ","81,590",1.5,29.9
+Tucson,"TUCSON, AZ","530,905",2.9,29.0
+Las Cruces,"LAS CRUCES, NM","101,014",1.5,28.8
+Anaheim,"ANAHEIM, CA","349,007",1.4,24.1
+Fort Worth,"FORT WORTH, TX","835,129",1.6,33.4
+Flint,"FLINT, MI","97,810",1.5,45.0
+Stockton,"STOCKTON, CA","304,358",1.5,30.5
+Lawrence,"LAWRENCE, KS","93,954",3.3,26.0
+Appleton,"APPLETON, WI","73,832",1.8,30.2
+Riverside,"RIVERSIDE, CA","321,570",1.4,28.1
+Montgomery,"MONTGOMERY, AL","200,761",1.4,36.4
+Irvine,"IRVINE, CA","256,877",1.9,16.4
+Nashua,"NASHUA, NH","87,642",1.4,28.2
+Little Rock,"LITTLE ROCK, AR","197,780",1.7,34.2
+New Haven,"NEW HAVEN, CT","130,884",1.6,32.0
+Vancouver,"VANCOUVER, WA","171,393",1.7,31.1
+Buffalo,"BUFFALO, NY","259,574",2.5,36.4
+Austin,"AUSTIN, TX","916,906",2.9,25.4
+Seattle,"SEATTLE, WA","688,245",2.3,22.7
+Honolulu,"HONOLULU, HI","350,788",1.6,22.8
+Sacramento,"SACRAMENTO, CA","489,650",1.7,28.1
+Miami,"MIAMI, FL","443,007",1.4,29.5
+Detroit,"DETROIT, MI","679,865",1.6,47.0
+Anchorage,"ANCHORAGE, AK","298,225",1.8,27.6
+Corpus Christi,"CORPUS CHRISTI, TX","322,726",1.3,37.2
+Roanoke,"ROANOKE, VA","99,572",1.6,33.7
+Albany,"ALBANY, NY","98,498",1.4,31.0
+Cambridge,"CAMBRIDGE, MA","110,893",2.2,20.5
+Glendale,"GLENDALE, AZ","241,543",1.6,29.8
+Rochester,"ROCHESTER, MN","112,683",1.7,26.7
+Lafayette,"LAFAYETTE, LA","126,476",1.3,32.6
+Folsom,"FOLSOM, CA","75,897",1.8,23.8
+Houston,"HOUSTON, TX","2,267,336",1.4,32.6
+Carlsbad,"CARLSBAD, CA","113,147",1.3,18.5
+Columbus,"COLUMBUS, OH","852,144",1.8,32.0
+Asheville,"ASHEVILLE, NC","89,318",1.5,26.6
+Warren,"WARREN, MI","135,147",1.5,34.0
+New York,"NEW YORK, NY","8,560,072",1.9,24.8
+Green Bay,"GREEN BAY, WI","104,796",1.8,34.0
+Arlington,"ARLINGTON, TX","388,225",1.3,31.9
+Spokane,"SPOKANE, WA","212,982",1.7,30.6
+Virginia Beach,"VIRGINIA BEACH, VA","450,057",1.4,27.7
+Albuquerque,"ALBUQUERQUE, NM","556,718",1.6,27.7
+Fayetteville,"FAYETTEVILLE, NC","210,324",1.3,34.2
+Omaha,"OMAHA, NE","463,081",1.7,33.2
+Champaign,"CHAMPAIGN, IL","85,710",1.8,29.0
+Madison,"MADISON, WI","248,856",3.2,26.1
+Rochester,"ROCHESTER, NY","209,463",2.6,38.9
+Savannah,"SAVANNAH, GA","145,094",1.4,33.7
+San Francisco,"SAN FRANCISCO, CA","864,263",2.2,17.1
+Cleveland,"CLEVELAND, OH","388,812",1.7,39.2
+Lake Charles,"LAKE CHARLES, LA","75,194",1.2,39.1
+Mobile,"MOBILE, AL","192,085",1.3,39.0
+Federal Way,"FEDERAL WAY, WA","94,905",1.9,26.7
+Jackson,"JACKSON, MS","170,393",1.2,43.6
+Chattanooga,"CHATTANOOGA, TN","176,291",1.6,33.7
+Aurora,"AURORA, CO","357,323",1.5,25.5
+New Orleans,"NEW ORLEANS, LA","388,182",3.0,33.8
+Redwood City,"REDWOOD CITY, CA","84,368",1.7,25.0
+Lincoln,"LINCOLN, NE","277,315",2.7,28.7
+Providence,"PROVIDENCE, RI","179,509",3.0,29.6
+Provo,"PROVO, UT","116,199",1.8,24.8
+Gresham,"GRESHAM, OR","110,336",1.5,25.2
+Dallas,"DALLAS, TX","1,300,122",1.4,35.2
+Washington,"WASHINGTON, DC","672,391",3.1,25.2
+Newark,"NEWARK, NJ","282,803",1.2,36.4
+Huntsville,"HUNTSVILLE, AL","190,501",2.8,32.6
+Fremont,"FREMONT, CA","230,964",1.5,15.7
+Shreveport,"SHREVEPORT, LA","196,217",1.2,42.6
+San Antonio,"SAN ANTONIO, TX","1,461,623",1.5,37.8
+Las Vegas,"LAS VEGAS, NV","621,662",1.6,27.3
+Sterling Heights,"STERLING HEIGHTS, MI","131,996",1.5,30.9
+Macon,"MACON, GA","153,621",1.1,43.1
+Eugene,"EUGENE, OR","163,135",3.4,25.6
+Toledo,"TOLEDO, OH","279,455",1.4,37.3
+Hoover,"HOOVER, AL","84,150",1.4,29.2
+Billings,"BILLINGS, MT","109,082",2.4,29.5
+San Jose,"SAN JOSE, CA","1,023,031",1.6,20.8
+Lexington,"LEXINGTON, KY","315,109",1.5,32.4
+Somerville,"SOMERVILLE, MA","79,983",1.9,22.3
+Gary,"GARY, IN","77,416",1.7,49.1
+Wilmington,"WILMINGTON, DE","71,276",1.6,36.4
+Milwaukee,"MILWAUKEE, WI","599,086",2.8,37.2
+Mount Vernon,"MOUNT VERNON, NY","68,671",1.4,30.5
+Memphis,"MEMPHIS, TN","654,723",2.8,40.5
+Fargo,"FARGO, ND","118,099",1.9,32.0
+Birmingham,"BIRMINGHAM, AL","212,265",1.5,41.7
+Camden,"CAMDEN, NJ","75,550",1.5,42.9
+Los Angeles,"LOS ANGELES, CA","3,949,776",1.7,26.1
+Louisville,"LOUISVILLE, KY","615,478",1.4,34.2
+Waterbury,"WATERBURY, CT","109,250",1.0,33.8
+Raleigh,"RALEIGH, NC","449,477",1.5,27.9
+San Bernardino,"SAN BERNARDINO, CA","215,252",1.1,32.3
+Baton Rouge,"BATON ROUGE, LA","227,549",1.3,33.8
+Joliet,"JOLIET, IL","148,172",1.5,37.6
+Redlands,"REDLANDS, CA","70,765",1.7,23.8
+Napa,"NAPA, CA","79,722",1.6,24.0
+Grand Rapids,"GRAND RAPIDS, MI","195,355",1.5,33.9
+Paterson,"PATERSON, NJ","147,890",1.0,39.1
+Stamford,"STAMFORD, CT","128,851",1.3,24.4
+Worcester,"WORCESTER, MA","184,743",1.4,28.5
+Dayton,"DAYTON, OH","140,939",1.4,42.3
+Indianapolis,"INDIANAPOLIS, IN","853,431",2.5,32.9
+Jersey City,"JERSEY CITY, NJ","265,932",1.5,27.8
+Charlotte,"CHARLOTTE, NC","826,060",1.4,29.1
+Orlando,"ORLANDO, FL","269,414",2.3,29.7
+Winston-Salem,"WINSTON-SALEM, NC","240,193",1.4,36.7
+Oklahoma City,"OKLAHOMA CITY, OK","629,191",1.3,32.7
+Carmel,"CARMEL, IN","88,595",3.0,24.9
+Fayetteville,"FAYETTEVILLE, AR","81,889",3.1,29.8
+Racine,"RACINE, WI","77,740",1.6,37.4
+Overland Park,"OVERLAND PARK, KS","186,147",1.7,24.1
+Manchester,"MANCHESTER, NH","110,601",1.4,29.5
+Boston,"BOSTON, MA","669,158",2.7,22.9
+Fishers,"FISHERS, IN","87,557",1.5,25.8
+Springfield,"SPRINGFIELD, MA","154,613",1.2,36.2
+Minneapolis,"MINNEAPOLIS, MN","411,452",3.2,25.3
+Atlanta,"ATLANTA, GA","465,230",1.5,27.9
+Lowell,"LOWELL, MA","110,964",1.4,26.2
+Bloomington,"BLOOMINGTON, MN","85,417",1.7,22.8
+Chandler,"CHANDLER, AZ","245,160",1.6,25.3
+Richardson,"RICHARDSON, TX","111,055",1.3,26.1
+Kansas City,"KANSAS CITY, MO","476,974",1.5,33.0
+Kent,"KENT, WA","126,561",1.3,27.4
+Des Moines,"DES MOINES, IA","214,778",1.7,32.8
+Norwalk,"NORWALK, CT","88,537",1.5,25.5
+Salem,"SALEM, OR","163,654",1.5,34.0
+Melbourne,"MELBOURNE, FL","79,640",1.2,27.3
+Long Beach,"LONG BEACH, CA","470,489",2.8,25.8
+Nashville,"NASHVILLE, TN","654,187",2.1,31.6
+Greensboro,"GREENSBORO, NC","284,816",1.3,35.5
+Salt Lake City,"SALT LAKE CITY, UT","194,188",2.0,25.8
+Newport News,"NEWPORT NEWS, VA","180,775",1.5,33.6
+Tallahassee,"TALLAHASSEE, FL","188,463",1.4,28.4
+Bakersfield,"BAKERSFIELD, CA","372,680",1.2,29.3
+Baltimore,"BALTIMORE, MD","619,796",2.8,35.3
+Cincinnati,"CINCINNATI, OH","298,957",1.6,36.3
+Charleston,"CHARLESTON, SC","131,204",1.4,27.4
+Santa Fe,"SANTA FE, NM","82,980",1.5,18.8
+Broken Arrow,"BROKEN ARROW, OK","106,264",1.3,27.5
+Phoenix,"PHOENIX, AZ","1,574,421",1.5,30.1
+Rio Rancho,"RIO RANCHO, NM","93,317",1.3,25.4
+Scranton,"SCRANTON, PA","76,624",1.4,31.4
+Gilbert,"GILBERT, AZ","232,176",1.4,24.5
+High Point,"HIGH POINT, NC","109,849",1.3,36.3
+Bridgeport,"BRIDGEPORT, CT","147,586",1.3,31.7
+Scottsdale,"SCOTTSDALE, AZ","239,283",1.7,23.7
+Oakland,"OAKLAND, CA","417,442",1.8,25.1
+Hammond,"HAMMOND, IN","77,827",1.4,39.1
+Tacoma,"TACOMA, WA","207,280",1.6,32.6
+Plano,"PLANO, TX","281,566",1.4,26.5
+Colorado Springs,"COLORADO SPRINGS, CO","450,000",3.1,24.1
+Springfield,"SPRINGFIELD, IL","116,313",1.4,35.6
+Columbus,"COLUMBUS, GA","198,647",1.1,34.3
+Thornton,"THORNTON, CO","132,310",1.1,26.2
+Pawtucket,"PAWTUCKET, RI","71,770",1.4,30.6
+Knoxville,"KNOXVILLE, TN","184,465",2.4,32.1
+Albany,"ALBANY, GA","74,892",0.9,38.4
+Norfolk,"NORFOLK, VA","245,752",1.3,32.7
+Columbia,"COLUMBIA, MO","118,620",1.7,28.1
+Topeka,"TOPEKA, KS","127,139",1.5,36.6
+Durham,"DURHAM, NC","257,232",2.7,30.7
+Youngstown,"YOUNGSTOWN, OH","64,852",1.0,41.0
+Livonia,"LIVONIA, MI","94,708",1.4,28.0
+Portland,"PORTLAND, OR","630,331",3.3,22.8
+Augusta,"AUGUSTA, GA","196,899",1.2,35.6
+Duluth,"DULUTH, MN","86,066",1.7,29.7
+Davenport,"DAVENPORT, IA","102,268",1.6,32.6
+Richmond,"RICHMOND, VA","220,892",1.7,32.6
+Santa Rosa,"SANTA ROSA, CA","174,244",1.5,24.0
+Akron,"AKRON, OH","198,252",1.2,35.7
+Jacksonville,"JACKSONVILLE, FL","867,313",1.2,31.3
+Evanston,"EVANSTON, IL","75,557",1.7,25.1
+Canton,"CANTON, OH","71,763",1.3,40.1
+Sioux Falls,"SIOUX FALLS, SD","170,401",1.5,31.5
+Bellevue,"BELLEVUE, WA","139,014",1.6,19.8
+Chula Vista,"CHULA VISTA, CA","264,101",1.3,21.9
+Mesa,"MESA, AZ","479,317",1.3,28.0
+Fairfield,"FAIRFIELD, CA","112,790",1.1,25.3
+Livermore,"LIVERMORE, CA","88,232",1.3,21.3
+Peoria,"PEORIA, AZ","161,383",1.3,26.2
+Gulfport,"GULFPORT, MS","71,318",1.2,39.1
+El Paso,"EL PASO, TX","678,266",1.2,34.5
+Trenton,"TRENTON, NJ","84,867",1.3,38.9
+Lakewood,"LAKEWOOD, CO","151,411",1.4,24.2
+Fresno,"FRESNO, CA","519,037",1.3,33.7
+Warwick,"WARWICK, RI","81,218",1.2,28.7
+Simi Valley,"SIMI VALLEY, CA","126,546",1.4,23.1
+O'Fallon,"O'FALLON, MO","85,246",1.4,31.4
+West Jordan,"WEST JORDAN, UT","111,937",1.2,25.9
+Meridian,"MERIDIAN, ID","91,917",1.2,25.0
+Roswell,"ROSWELL, GA","94,239",1.2,22.1
+Tempe,"TEMPE, AZ","178,339",1.6,24.7
+Reno,"RENO, NV","239,732",1.5,25.7
+Beaverton,"BEAVERTON, OR","95,710",1.6,28.5
+Cedar Rapids,"CEDAR RAPIDS, IA","130,330",1.7,32.2
+Concord,"CONCORD, NC","87,607",1.1,33.1
+Columbia,"COLUMBIA, SC","132,236",1.3,31.5
+Sioux City,"SIOUX CITY, IA","82,568",1.3,36.2
+Longmont,"LONGMONT, CO","91,730",1.4,18.2
+Chesapeake,"CHESAPEAKE, VA","235,410",1.3,32.8
+Kenner,"KENNER, LA","67,253",1.3,33.5
+San Diego,"SAN DIEGO, CA","1,390,966",3.0,19.8
+Norman,"NORMAN, OK","119,820",1.6,30.0
+Jonesboro,"JONESBORO, AR","73,581",1.1,35.2
+Santa Monica,"SANTA MONICA, CA","92,495",3.1,20.6
+Henderson,"HENDERSON, NV","284,817",1.4,23.8
+Bloomington,"BLOOMINGTON, IN","83,636",1.7,25.8
+Rockford,"ROCKFORD, IL","148,640",1.3,36.3
+Clarksville,"CLARKSVILLE, TN","147,771",1.1,36.5
+Cheyenne,"CHEYENNE, WY","62,986",1.2,29.2
+West Valley City,"WEST VALLEY CITY, UT","135,546",1.1,29.2
