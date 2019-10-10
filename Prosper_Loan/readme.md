@@ -1,4 +1,4 @@
-# (Prosper- Loan)
+# (EDA on Prosper- Loan)
 ## by (Praise Onyehanere)
 
 
@@ -7,7 +7,8 @@
 > Prosper is a Fintech company.A place where you can borrow and lend a money. The power to send is limitless. Modern “Fintech companies, as they’ve come to be called, are easing payment processes, reducing fraud, saving users money, promoting financial planning, and ultimately moving a giant industry forward.”
 
 There are 113,937 Loan listing in the dataset with 81 features . Most variables are numeric in nature.
-T
+
+Univariate Exploration, Bivariate Exploration, Multivariate Exploration
 
 ## Summary of Findings
 
